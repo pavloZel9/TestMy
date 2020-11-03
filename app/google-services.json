@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "805400972674",
+    "firebase_url": "https://findit-a24e6.firebaseio.com",
+    "project_id": "findit-a24e6",
+    "storage_bucket": "findit-a24e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805400972674:android:f206068ace40ff2f",
+        "android_client_info": {
+          "package_name": "com.driverlogic.find_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805400972674-sktgr3hih10mvh4hs0p3glskig3t3lj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.driverlogic.find_it",
+            "certificate_hash": "d576df0f28d57b07fa89b0043f76c1db87756b2f"
+          }
+        },
+        {
+          "client_id": "805400972674-n0gehi95m6a19163049tgg0340ag3k72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr58wIPcxUCgiCGzOYgU5vn_P8ibn1Ids"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805400972674-n0gehi95m6a19163049tgg0340ag3k72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805400972674:android:b1b7c9542e45e9a76b139b",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805400972674-n0gehi95m6a19163049tgg0340ag3k72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr58wIPcxUCgiCGzOYgU5vn_P8ibn1Ids"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805400972674-n0gehi95m6a19163049tgg0340ag3k72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
